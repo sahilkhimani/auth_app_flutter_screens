@@ -1,16 +1,11 @@
-# authentication_app
+![image](https://github.com/user-attachments/assets/3b127757-b82c-485a-9b24-11ad300a6ff4)# authentication_app
 
-A new Flutter project.
+Design Screens of Authentication app
 
-## Getting Started
+This Project contains the onboarding Screen
+Login Screen
+Registration Screen
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-09-03 162605](https://github.com/user-attachments/assets/090f471e-502c-436d-b696-c341e71b6f2d)
