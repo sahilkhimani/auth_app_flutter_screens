@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/3b127757-b82c-485a-9b24-11ad300a6ff4)# authentication_app
-
 Design Screens of Authentication app
 
 This Project contains the onboarding Screen
