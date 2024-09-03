@@ -1,7 +1,7 @@
 Design Screens of Authentication app
 
-This Project contains the onboarding Screen
-Login Screen
+This Project contains the onboarding Screen,
+Login Screen,
 Registration Screen
 
 
